@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Test jQuery</title>
+    <link rel="stylesheet" href="bootstrap-3.3.5-dist/css/bootstrap.min.css">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+</head>
+    
+<body>
+
+<div class="container">
+    <div class="jumbotron">
+        <h1>Testing jQuery</h1>
+        <p>My first jQuery (awwwww).</p>
+            
+        <button class="panel-button" data-panelid="panel1">#btn1</button>
+        <button class="panel-button" data-panelid="panel2">#btn2</button>
+        <button class="panel-button" data-panelid="panel3">#btn3</button>
+        <button class="panel-button" data-panelid="panel4">#btn4</button>
+    </div>
+
+    <form>
+    <div class="form-group">
+        <label for="search" class="col-sm-2 control-label">Find</label>
+        <div class="col-sm-10">
+        <input type="text" class="form-control" id="searchInput" type="text" placeholder="Enter search item">
+        </div>
+        <select class="form-control">
+            <option selected value="walmart">Walmart</option>
+            <option value="meijer">Meijer</option>
+        </select>
+        <button class="search-button" data-panelid="searchEnter">Search</button>
+    </div>
+    
+    </form>
+
+    <div class="row">
+        <div class="col-xs-3">
+            <div id="panel1" class="panel panel-primary">
+                <div class="panel-heading">
+                    #panel1
+                </div>
+                <div class="panel-body">
+                    content
+                </div>
+                <div class="panel-footer">
+                    price
+                </div>
+            </div>
+        </div>
+
+        <div class="col-xs-3">
+            <div id="panel2" class="panel panel-primary">
+                <div class="panel-heading">
+                    #panel2
+                </div>
+                <div class="panel-body">
+                    content
+                </div>
+                <div class="panel-footer">
+                    price
+                </div>
+            </div>
+        </div>
+
+        <div class="col-xs-3">
+            <div id="panel3" class="panel panel-primary">
+                <div class="panel-heading">
+                    #panel3
+                </div>
+                <div class="panel-body">
+                    content
+                </div>
+                <div class="panel-footer">
+                    price
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-xs-3">
+            <div id="panel4" class="panel panel-primary">
+                <div class="panel-heading">
+                    #panel4
+                </div>
+                <div class="panel-body">
+                    content
+                </div>
+                <div class="panel-footer">
+                    price
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    
+<script>
+    results = {}; // contains search results in hash table
+    
+    $(document).ready(function(){
+        
+        $('.panel-button').click(function(){
+            var panelID = $(this).attr('data-panelid');
+            $('#'+panelID).toggle();   
+        });
+        
+        $('.search-button').click(function(){
+            var stuff = $("#searchInput").val();
+            var store = $('.form-control').find("option:selected").text();
+            $("#searchInput").append($('br')).append($('stuff'));
+            searchFor(stuff);
+            return false;
+        });
+        
+        $('#searchInput').click(function() {
+            this.value='';
+        });
+ 
+        // web-crawler attempt #1 - without CORS extension
+        /*
+        var xhr = new XMLHttpRequest();
+        xhr.open("GET", "http://www.walmart.com/", true);
+        xhr.setRequestHeader("Access-Control-Allow-Origin", "*");
+        xhr.setRequestHeader("Access-Control-Allow-Methods", "POST, GET, OPTIONS, DELETE, PUT");
+        xhr.setRequestHeader("Access-Control-A")
+        xhr.responseText("Origin", "*");
+        xhr.withCredentials = false;
+        xhr.onload = function() {
+            console.log(xhr.responseText);
+        }
+        xhr.send();
+        */
+        // web-crawler attempt #2 - works only on chrome with CORS extension
+        /*
+        $.ajax({            
+          // This works with Google Chrome with the CORS extension enabled
+          // The 'type' property sets the HTTP method.
+          // A value of 'PUT' or 'DELETE' will trigger a preflight request.
+          type: 'GET',
+            
+          crossDomain: true,
+    
+          // The URL to make the request to.
+          url: 'http://www.walmart.com/search/?query=orange%20juice',
+
+          // The 'contentType' property sets the 'Content-Type' header.
+          // The JQuery default for this property is
+          // 'application/x-www-form-urlencoded; charset=UTF-8', which does not trigger
+          // a preflight. If you set this value to anything other than
+          // application/x-www-form-urlencoded, multipart/form-data, or text/plain,
+          // you will trigger a preflight request.
+          contentType: 'text/plain',
+
+          xhrFields: {
+            // The 'xhrFields' property sets additional fields on the XMLHttpRequest.
+            // This can be used to set the 'withCredentials' property.
+            // Set the value to 'true' if you'd like to pass cookies to the server.
+            // If this is enabled, your server must respond with the header
+            // 'Access-Control-Allow-Credentials: true'.
+            withCredentials: false
+          },
+
+          headers: {
+            // Set any custom headers here.
+            // If you set any non-simple headers, your server must include these
+            // headers in the 'Access-Control-Allow-Headers' response header.
+              'Access-Control-Allow-Origin': '*',
+              'Access-Control-Allow-Methods': 'POST, GET, OPTIONS, DELETE, PUT',
+              'Access-Control-Max-Age': '1000',
+              'Access-Control-Allow-Headers': 'x-requested-with, Content-Type, origin, authorization, accept, client-security-token'
+          },
+
+          success: function(data) {
+            // Here's where you handle a successful response.
+              console.log("this is working?!"+data);
+          },
+
+          error: function() {
+            // Here's where you handle an error response.
+            // Note that if the error was due to a CORS issue,
+            // this function will still fire, but there won't be any additional
+            // information about the error.
+          }
+        });
+        */
+
+        // web-crawler attempt #3 - works using Walmart API
+        function searchFor(someItem) {
+            $.ajax({
+                url: "http://api.walmartlabs.com/v1/search?"+
+                     "apiKey=2ngydndmvt9ezwsh65xyeaws&format=json&numItems=25"+
+                     "&query=" + someItem + "&callback=?",
+                dataType: "jsonp",
+                success: function ( response ) {
+                    console.log( response ); // checking server response
+                    results[someItem] = [];
+                    for (var i = 0; i < 25; i++) { // max numItems handled by API=25
+                        var a = {"name": response.items[i].name, 
+                                 "price": response.items[i].salePrice, 
+                                 "productURL": response.items[i].productUrl, 
+                                 "image": response.items[i].thumbnailImage };
+                        results[someItem].push(a);
+                        console.log(results[someItem][i]); // printing result
+                    }
+                    displayResultsInPanel(someItem);
+                }
+            });
+        }
+        
+        function displayResultsInPanel(someItem) {
+            var k = 1;
+            for (var i = 0; i < 4; i++) {
+                $('#panel'+k).children()[0].innerHTML = results[someItem][i]["name"];
+                $('#panel'+k).children()[1].innerHTML = "<img src=\""+results[someItem][i]["image"]+"\">";
+                $('#panel'+k).children()[2].innerHTML = "<center>$" + results[someItem][i]["price"];
+                k++;
+            }
+        }
+        
+    }); // this is the end of script brackets
+</script>
+    
+</body>
+</html>

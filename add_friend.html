@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+
+
+<head>
+
+<style>
+	button { 
+        	width:100px; 
+    	} 
+	table.empty{
+            border-collapse:collapse;
+            empty-cells:hide;
+            margin-left:auto; 
+	    margin-right:auto;
+	   
+         }
+         td.empty{
+            padding:5px;
+            border-style:solid;
+            border-width:1px;
+            border-color:#999999;
+         }
+	html, body {
+        	height: 100%;
+        	background-image: url("http://crccs-year9team.wikispaces.com/file/view/tumblr_ls8pgrj2jh1qgebm1o2_250.gif/275067662/308x212/tumblr_ls8pgrj2jh1qgebm1o2_250.gif");
+    		background-repeat: repeat-y;
+    	}
+    	
+    	html {
+        	display: table;
+        	margin: auto;
+    	}
+    	body {
+        	display: table-cell;
+        	vertical-align: top;
+    	}
+    	#header {
+        	background-color:transparent;
+        	color:black;
+        	text-align:center;
+        	padding:10px;
+    	}
+    	#nav {
+        	width:100px;
+        	height:100px;
+        	float:left;
+        	line-height:30px;
+        	padding:10px;
+        	      
+    	}
+    	#section {
+        	width:720px;
+        	height:100px;
+        	float:left;
+        	color:black;
+        	padding:10px;
+    	}
+    	#footer {
+        	background-color:transparent;
+        	color:black;
+        	clear:both;
+        	text-align:center;
+        	padding:10px;	 	 
+    	}
+    	button { 
+        	width:100px; 
+    	}
+    	
+    	 
+</style>
+</head>
+
+<body>
+
+<div id="header">
+	<h1>Add/Delete a friend</h1>
+	<!--
+	<h1> My Main Page </h1>
+	<table class="empty">
+	<tr>   
+	<td class="empty">TOTAL BALANCE:</td>
+        <td class="empty">YOU OWE:</td>
+        <td class="empty">YOU ARE OWED:</td>
+	</tr>
+	</table>
+	-->
+	<form action="add_friend.php">
+<div id="section">
+	<table align="center" width="500">
+	<tr>
+    	<td></td>		
+  	</tr>
+
+  	
+	</table>
+	<table align="center" width="500">
+	<tr>
+    	<td>
+		<p>ADD FRIEND</p>
+    		<form action="add_friend.php" method="get">
+			Friend Email <input type="text" name="id">
+			<input type="submit" value="ADD">
+		</form>
+		
+		<p>DELETE FRIEND</p>
+		<form action="delete_friend.php" method="get">
+			Friend Email <input type="text" name="id2">
+			<input type="submit" value="Delete">
+		</form>
+    	</td>		
+  	</tr>	
+	</table>
+	
+</div>
+</form>
+</div>
+
+
+<div id="nav">
+	<!--
+	<div class="btn-group-vertical" role="group" aria-label="...">
+        <button onclick="location.href = 'http://groupmate.web.engr.illinois.edu/add_friend.html';" type="button" class="btn btn-default">Add a friend</button>
+        <button onclick="location.href = 'http://groupmate.web.engr.illinois.edu/group.php';" type="button" class="btn btn-default">Add a group</button>
+        <button onclick="location.href = 'http://groupmate.web.engr.illinois.edu/yuching.html';" type="button" class="btn btn-default">Add a transaction</button>
+        <button onclick="location.href = 'http://groupmate.web.engr.illinois.edu/transaction.php';" type="button" class="btn btn-default">Add a bill</button>
+        <button onclick="location.href = 'http://groupmate.web.engr.illinois.edu/main_page.php';" type="button" class="btn btn-default">Back to my main page</button>
+        
+        <button type="button" class="btn btn-default">Log out</button>
+    	</div>
+    	-->
+</div>
+
+<div id="footer">
+	<button onclick="location.href = 'http://groupmate.web.engr.illinois.edu/main_page.php';" type="button" class="btn btn-default">Back to my main page</button>
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,862 @@
+[20-Oct-2015 20:46:33 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'my_user'@'localhost' (using password: YES) in /home/groupmate/public_html/Register.php on line 2
+[20-Oct-2015 20:46:33 America/Chicago] PHP Fatal error:  Function name must be a string in /home/groupmate/public_html/Register.php on line 4
+[20-Oct-2015 20:46:47 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'my_user'@'localhost' (using password: YES) in /home/groupmate/public_html/FetchUserData.php on line 2
+[20-Oct-2015 20:46:47 America/Chicago] PHP Fatal error:  Function name must be a string in /home/groupmate/public_html/FetchUserData.php on line 5
+[20-Oct-2015 21:19:57 America/Chicago] PHP Parse error:  syntax error, unexpected '$sql_query' (T_VARIABLE) in /home/groupmate/public_html/register.php on line 10
+[20-Oct-2015 21:34:56 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/login.php on line 11
+[20-Oct-2015 21:36:18 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/login.php on line 11
+[21-Oct-2015 00:33:18 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/groupmate/public_html/delete_account.php on line 13
+[21-Oct-2015 00:33:27 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/groupmate/public_html/delete_account.php on line 13
+[21-Oct-2015 00:59:18 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/groupmate/public_html/delete_account.php on line 14
+[21-Oct-2015 01:29:10 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/find_people.php on line 9
+[21-Oct-2015 12:47:17 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/groupmate/public_html/delete_account.php on line 14
+[21-Oct-2015 12:47:54 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/groupmate/public_html/delete_account.php on line 14
+[21-Oct-2015 12:51:02 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/groupmate/public_html/delete_account.php on line 14
+[21-Oct-2015 12:51:58 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/groupmate/public_html/delete_account.php on line 14
+[21-Oct-2015 12:52:31 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/groupmate/public_html/delete_account.php on line 14
+[21-Oct-2015 12:53:05 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/groupmate/public_html/delete_account.php on line 14
+[08-Nov-2015 11:11:39 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/groupmate/public_html/TestLogin.php on line 10
+[08-Nov-2015 11:13:21 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/groupmate/public_html/TestLogin.php on line 10
+[08-Nov-2015 11:15:37 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/groupmate/public_html/TestLogin.php on line 10
+[08-Nov-2015 11:40:16 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/groupmate/public_html/testtesttest.php on line 4
+[08-Nov-2015 11:41:37 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/groupmate/public_html/testtesttest.php on line 4
+[08-Nov-2015 11:41:40 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/groupmate/public_html/testtesttest.php on line 4
+[08-Nov-2015 11:43:39 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/groupmate/public_html/testtesttest.php on line 4
+[08-Nov-2015 11:46:19 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/groupmate/public_html/register.php on line 20
+[08-Nov-2015 11:46:47 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/register.php on line 20
+[08-Nov-2015 12:00:31 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/groupmate/public_html/TestLogin.php on line 11
+[29-Nov-2015 19:14:36 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/groupmate/public_html/login.php on line 5
+[29-Nov-2015 20:19:13 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/groupmate/public_html/summary.php:12) in /home/groupmate/public_html/summary.php on line 13
+[29-Nov-2015 20:20:32 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/groupmate/public_html/summary.php:12) in /home/groupmate/public_html/summary.php on line 13
+[29-Nov-2015 20:22:24 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/groupmate/public_html/summary.php:12) in /home/groupmate/public_html/summary.php on line 13
+[29-Nov-2015 20:23:19 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/groupmate/public_html/summary.php:12) in /home/groupmate/public_html/summary.php on line 13
+[29-Nov-2015 20:23:36 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/groupmate/public_html/summary.php:12) in /home/groupmate/public_html/summary.php on line 13
+[29-Nov-2015 20:24:51 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/groupmate/public_html/summary.php on line 17
+[29-Nov-2015 20:26:41 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/groupmate/public_html/summary.php on line 17
+[29-Nov-2015 21:01:15 America/Chicago] PHP Fatal error:  Class 'db' not found in /home/groupmate/public_html/do_search.php on line 7
+[29-Nov-2015 21:01:17 America/Chicago] PHP Fatal error:  Class 'db' not found in /home/groupmate/public_html/do_search.php on line 7
+[29-Nov-2015 21:01:17 America/Chicago] PHP Fatal error:  Class 'db' not found in /home/groupmate/public_html/do_search.php on line 7
+[29-Nov-2015 21:01:18 America/Chicago] PHP Fatal error:  Class 'db' not found in /home/groupmate/public_html/do_search.php on line 7
+[29-Nov-2015 21:01:19 America/Chicago] PHP Fatal error:  Class 'db' not found in /home/groupmate/public_html/do_search.php on line 7
+[29-Nov-2015 21:01:20 America/Chicago] PHP Fatal error:  Class 'db' not found in /home/groupmate/public_html/do_search.php on line 7
+[29-Nov-2015 21:01:20 America/Chicago] PHP Fatal error:  Class 'db' not found in /home/groupmate/public_html/do_search.php on line 7
+[29-Nov-2015 21:01:21 America/Chicago] PHP Fatal error:  Class 'db' not found in /home/groupmate/public_html/do_search.php on line 7
+[29-Nov-2015 21:01:41 America/Chicago] PHP Fatal error:  Class 'db' not found in /home/groupmate/public_html/do_search.php on line 7
+[29-Nov-2015 21:01:43 America/Chicago] PHP Fatal error:  Class 'db' not found in /home/groupmate/public_html/do_search.php on line 7
+[29-Nov-2015 21:01:43 America/Chicago] PHP Fatal error:  Class 'db' not found in /home/groupmate/public_html/do_search.php on line 7
+[29-Nov-2015 21:01:44 America/Chicago] PHP Fatal error:  Class 'db' not found in /home/groupmate/public_html/do_search.php on line 7
+[29-Nov-2015 21:01:44 America/Chicago] PHP Fatal error:  Class 'db' not found in /home/groupmate/public_html/do_search.php on line 7
+[29-Nov-2015 21:01:44 America/Chicago] PHP Fatal error:  Class 'db' not found in /home/groupmate/public_html/do_search.php on line 7
+[29-Nov-2015 21:01:44 America/Chicago] PHP Fatal error:  Class 'db' not found in /home/groupmate/public_html/do_search.php on line 7
+[29-Nov-2015 21:01:45 America/Chicago] PHP Fatal error:  Class 'db' not found in /home/groupmate/public_html/do_search.php on line 7
+[29-Nov-2015 21:17:55 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/groupmate/public_html/summary.php on line 17
+[29-Nov-2015 21:18:31 America/Chicago] PHP Parse error:  syntax error, unexpected '>' in /home/groupmate/public_html/summary.php on line 17
+[29-Nov-2015 21:18:36 America/Chicago] PHP Parse error:  syntax error, unexpected '>' in /home/groupmate/public_html/summary.php on line 17
+[29-Nov-2015 21:18:59 America/Chicago] PHP Parse error:  syntax error, unexpected '>' in /home/groupmate/public_html/summary.php on line 19
+[29-Nov-2015 21:19:26 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/groupmate/public_html/summary.php:14) in /home/groupmate/public_html/summary.php on line 15
+[29-Nov-2015 21:19:26 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/groupmate/public_html/summary.php:14) in /home/groupmate/public_html/summary.php on line 15
+[29-Nov-2015 21:20:00 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/groupmate/public_html/summary.php:10) in /home/groupmate/public_html/summary.php on line 12
+[29-Nov-2015 21:20:00 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/groupmate/public_html/summary.php:10) in /home/groupmate/public_html/summary.php on line 12
+[29-Nov-2015 21:20:25 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/groupmate/public_html/summary.php:10) in /home/groupmate/public_html/summary.php on line 12
+[29-Nov-2015 21:20:25 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/groupmate/public_html/summary.php:10) in /home/groupmate/public_html/summary.php on line 12
+[29-Nov-2015 21:21:17 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/groupmate/public_html/summary.php:10) in /home/groupmate/public_html/summary.php on line 12
+[29-Nov-2015 21:21:17 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/groupmate/public_html/summary.php:10) in /home/groupmate/public_html/summary.php on line 12
+[29-Nov-2015 21:21:27 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/groupmate/public_html/summary.php:10) in /home/groupmate/public_html/summary.php on line 12
+[29-Nov-2015 21:21:27 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/groupmate/public_html/summary.php:10) in /home/groupmate/public_html/summary.php on line 12
+[29-Nov-2015 21:22:26 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/groupmate/public_html/summary.php:10) in /home/groupmate/public_html/summary.php on line 11
+[29-Nov-2015 21:22:26 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/groupmate/public_html/summary.php:10) in /home/groupmate/public_html/summary.php on line 11
+[29-Nov-2015 21:23:21 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/groupmate/public_html/summary.php on line 16
+[29-Nov-2015 21:23:29 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/groupmate/public_html/summary.php:10) in /home/groupmate/public_html/summary.php on line 11
+[29-Nov-2015 21:23:29 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/groupmate/public_html/summary.php:10) in /home/groupmate/public_html/summary.php on line 11
+[29-Nov-2015 21:24:21 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/groupmate/public_html/summary.php:10) in /home/groupmate/public_html/summary.php on line 11
+[29-Nov-2015 21:24:21 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/groupmate/public_html/summary.php:10) in /home/groupmate/public_html/summary.php on line 11
+[29-Nov-2015 22:21:33 America/Chicago] PHP Parse error:  syntax error, unexpected '$sql_query' (T_VARIABLE) in /home/groupmate/public_html/testtest.php on line 31
+[29-Nov-2015 22:22:01 America/Chicago] PHP Parse error:  syntax error, unexpected '$sql_query' (T_VARIABLE) in /home/groupmate/public_html/testtest.php on line 31
+[29-Nov-2015 22:22:30 America/Chicago] PHP Parse error:  syntax error, unexpected '$sql_query' (T_VARIABLE) in /home/groupmate/public_html/testtest.php on line 31
+[29-Nov-2015 22:25:25 America/Chicago] PHP Parse error:  syntax error, unexpected '$sql_query' (T_VARIABLE) in /home/groupmate/public_html/testtest.php on line 31
+[29-Nov-2015 22:27:31 America/Chicago] PHP Parse error:  syntax error, unexpected '$sql_query' (T_VARIABLE) in /home/groupmate/public_html/testtest.php on line 31
+[29-Nov-2015 22:28:22 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/groupmate/public_html/testtest.php on line 31
+[29-Nov-2015 22:29:46 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/groupmate/public_html/testtest.php on line 32
+[29-Nov-2015 22:32:41 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/groupmate/public_html/testtest.php on line 31
+[29-Nov-2015 22:32:59 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/groupmate/public_html/testtest.php on line 31
+[29-Nov-2015 22:34:16 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/groupmate/public_html/testtest.php on line 30
+[29-Nov-2015 22:35:42 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/groupmate/public_html/testtest.php on line 32
+[29-Nov-2015 22:36:53 America/Chicago] PHP Parse error:  syntax error, unexpected '" =email);"' (T_CONSTANT_ENCAPSED_STRING) in /home/groupmate/public_html/testtest.php on line 32
+[29-Nov-2015 22:36:54 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/groupmate/public_html/testtest.php on line 31
+[29-Nov-2015 22:36:55 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/groupmate/public_html/testtest.php on line 31
+[29-Nov-2015 22:36:56 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/groupmate/public_html/testtest.php on line 31
+[29-Nov-2015 22:37:16 America/Chicago] PHP Parse error:  syntax error, unexpected '" =email);"' (T_CONSTANT_ENCAPSED_STRING) in /home/groupmate/public_html/testtest.php on line 32
+[29-Nov-2015 22:37:33 America/Chicago] PHP Parse error:  syntax error, unexpected '" =email);"' (T_CONSTANT_ENCAPSED_STRING) in /home/groupmate/public_html/testtest.php on line 32
+[29-Nov-2015 22:37:50 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/groupmate/public_html/testtest.php on line 31
+[29-Nov-2015 22:38:19 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/groupmate/public_html/testtest.php on line 31
+[29-Nov-2015 22:38:24 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/groupmate/public_html/testtest.php on line 31
+[29-Nov-2015 22:41:55 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/groupmate/public_html/testtest.php on line 36
+[29-Nov-2015 22:42:46 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/groupmate/public_html/testtest.php on line 36
+[29-Nov-2015 22:45:45 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/groupmate/public_html/testtest.php on line 36
+[29-Nov-2015 22:45:47 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/groupmate/public_html/testtest.php on line 36
+[29-Nov-2015 22:46:10 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/groupmate/public_html/testtest.php on line 36
+[29-Nov-2015 22:47:29 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/groupmate/public_html/testtest.php on line 36
+[29-Nov-2015 22:47:48 America/Chicago] PHP Parse error:  syntax error, unexpected '$change_result' (T_VARIABLE) in /home/groupmate/public_html/testtest.php on line 34
+[29-Nov-2015 22:48:15 America/Chicago] PHP Parse error:  syntax error, unexpected '$change_result' (T_VARIABLE) in /home/groupmate/public_html/testtest.php on line 34
+[29-Nov-2015 22:48:39 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/groupmate/public_html/testtest.php on line 35
+[29-Nov-2015 22:49:00 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/groupmate/public_html/testtest.php on line 36
+[29-Nov-2015 22:49:43 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/groupmate/public_html/testtest.php on line 39
+[29-Nov-2015 22:50:26 America/Chicago] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/groupmate/public_html/testtest.php on line 33
+[29-Nov-2015 22:50:26 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home/groupmate/public_html/testtest.php on line 34
+[29-Nov-2015 22:51:27 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/groupmate/public_html/testtest.php on line 38
+[29-Nov-2015 22:52:23 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/groupmate/public_html/testtest.php on line 34
+[29-Nov-2015 22:52:40 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/groupmate/public_html/testtest.php on line 34
+[29-Nov-2015 22:53:08 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/groupmate/public_html/testtest.php on line 34
+[29-Nov-2015 22:55:36 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/groupmate/public_html/testtest.php on line 39
+[29-Nov-2015 22:58:17 America/Chicago] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/groupmate/public_html/testtest.php on line 31
+[29-Nov-2015 22:58:17 America/Chicago] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/groupmate/public_html/testtest.php on line 31
+[29-Nov-2015 22:58:17 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/groupmate/public_html/testtest.php on line 39
+[29-Nov-2015 22:58:47 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/groupmate/public_html/testtest.php on line 39
+[29-Nov-2015 22:58:58 America/Chicago] PHP Parse error:  syntax error, unexpected '$squl_query' (T_VARIABLE) in /home/groupmate/public_html/testtest.php on line 33
+[29-Nov-2015 22:59:08 America/Chicago] PHP Parse error:  syntax error, unexpected '$sql_query' (T_VARIABLE) in /home/groupmate/public_html/testtest.php on line 33
+[29-Nov-2015 22:59:26 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/groupmate/public_html/testtest.php on line 36
+[29-Nov-2015 22:59:55 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/groupmate/public_html/testtest.php on line 38
+[29-Nov-2015 23:00:03 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/groupmate/public_html/testtest.php on line 39
+[29-Nov-2015 23:06:24 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/groupmate/public_html/testtest.php on line 36
+[29-Nov-2015 23:06:46 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/groupmate/public_html/testtest.php on line 37
+[29-Nov-2015 23:07:32 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/groupmate/public_html/testtest.php on line 36
+[29-Nov-2015 23:07:49 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/groupmate/public_html/testtest.php on line 38
+[29-Nov-2015 23:08:38 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/groupmate/public_html/testtest.php on line 37
+[29-Nov-2015 23:09:02 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/groupmate/public_html/testtest.php on line 37
+[29-Nov-2015 23:10:33 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/groupmate/public_html/testtest.php on line 37
+[29-Nov-2015 23:12:00 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/groupmate/public_html/testtest.php on line 40
+[29-Nov-2015 23:13:09 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/groupmate/public_html/testtest.php on line 37
+[29-Nov-2015 23:13:37 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/groupmate/public_html/testtest.php on line 36
+[29-Nov-2015 23:14:32 America/Chicago] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in /home/groupmate/public_html/testtest.php on line 35
+[29-Nov-2015 23:14:32 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/groupmate/public_html/testtest.php on line 37
+[29-Nov-2015 23:14:34 America/Chicago] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in /home/groupmate/public_html/testtest.php on line 35
+[29-Nov-2015 23:14:34 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/groupmate/public_html/testtest.php on line 37
+[29-Nov-2015 23:14:35 America/Chicago] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in /home/groupmate/public_html/testtest.php on line 35
+[29-Nov-2015 23:14:35 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/groupmate/public_html/testtest.php on line 37
+[29-Nov-2015 23:14:35 America/Chicago] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in /home/groupmate/public_html/testtest.php on line 35
+[29-Nov-2015 23:14:35 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/groupmate/public_html/testtest.php on line 37
+[29-Nov-2015 23:14:36 America/Chicago] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in /home/groupmate/public_html/testtest.php on line 35
+[29-Nov-2015 23:14:36 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/groupmate/public_html/testtest.php on line 37
+[29-Nov-2015 23:14:36 America/Chicago] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in /home/groupmate/public_html/testtest.php on line 35
+[29-Nov-2015 23:14:36 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/groupmate/public_html/testtest.php on line 37
+[29-Nov-2015 23:14:37 America/Chicago] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in /home/groupmate/public_html/testtest.php on line 35
+[29-Nov-2015 23:14:37 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/groupmate/public_html/testtest.php on line 37
+[29-Nov-2015 23:14:37 America/Chicago] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in /home/groupmate/public_html/testtest.php on line 35
+[29-Nov-2015 23:14:37 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/groupmate/public_html/testtest.php on line 37
+[29-Nov-2015 23:15:37 America/Chicago] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in /home/groupmate/public_html/testtest.php on line 35
+[29-Nov-2015 23:15:37 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/groupmate/public_html/testtest.php on line 37
+[29-Nov-2015 23:16:55 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, object given in /home/groupmate/public_html/testtest.php on line 35
+[29-Nov-2015 23:16:55 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/groupmate/public_html/testtest.php on line 37
+[29-Nov-2015 23:18:09 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/groupmate/public_html/testtest.php on line 38
+[29-Nov-2015 23:18:11 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/groupmate/public_html/testtest.php on line 38
+[29-Nov-2015 23:18:12 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/groupmate/public_html/testtest.php on line 38
+[29-Nov-2015 23:18:13 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/groupmate/public_html/testtest.php on line 38
+[29-Nov-2015 23:18:13 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/groupmate/public_html/testtest.php on line 38
+[29-Nov-2015 23:18:14 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/groupmate/public_html/testtest.php on line 38
+[29-Nov-2015 23:18:15 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/groupmate/public_html/testtest.php on line 38
+[29-Nov-2015 23:18:15 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/groupmate/public_html/testtest.php on line 38
+[29-Nov-2015 23:18:16 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/groupmate/public_html/testtest.php on line 38
+[29-Nov-2015 23:18:16 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/groupmate/public_html/testtest.php on line 38
+[29-Nov-2015 23:18:41 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/groupmate/public_html/testtest.php on line 38
+[29-Nov-2015 23:20:09 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/groupmate/public_html/testtest.php on line 38
+[29-Nov-2015 23:20:15 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/groupmate/public_html/testtest.php on line 37
+[29-Nov-2015 23:20:40 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/groupmate/public_html/testtest.php on line 37
+[29-Nov-2015 23:21:12 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/groupmate/public_html/testtest.php on line 37
+[29-Nov-2015 23:21:47 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/groupmate/public_html/testtest.php on line 37
+[29-Nov-2015 23:22:54 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/groupmate/public_html/testtest.php on line 37
+[29-Nov-2015 23:22:55 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/groupmate/public_html/testtest.php on line 37
+[29-Nov-2015 23:24:57 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/groupmate/public_html/testtest.php on line 38
+[29-Nov-2015 23:24:59 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/groupmate/public_html/testtest.php on line 38
+[29-Nov-2015 23:25:00 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/groupmate/public_html/testtest.php on line 38
+[29-Nov-2015 23:25:01 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/groupmate/public_html/testtest.php on line 38
+[29-Nov-2015 23:25:01 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/groupmate/public_html/testtest.php on line 38
+[29-Nov-2015 23:25:02 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/groupmate/public_html/testtest.php on line 38
+[29-Nov-2015 23:25:02 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/groupmate/public_html/testtest.php on line 38
+[29-Nov-2015 23:25:02 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/groupmate/public_html/testtest.php on line 38
+[29-Nov-2015 23:25:02 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/groupmate/public_html/testtest.php on line 38
+[29-Nov-2015 23:25:45 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/groupmate/public_html/testtest.php on line 38
+[29-Nov-2015 23:30:12 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/testtest.php on line 42
+[29-Nov-2015 23:38:45 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/testtest.php on line 51
+[29-Nov-2015 23:39:54 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/testtest.php on line 52
+[29-Nov-2015 23:41:37 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/groupmate/public_html/group.php on line 21
+[29-Nov-2015 23:44:30 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/groupmate/public_html/group.php on line 21
+[29-Nov-2015 23:45:46 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/groupmate/public_html/group.php on line 21
+[29-Nov-2015 23:46:26 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/groupmate/public_html/group.php on line 21
+[29-Nov-2015 23:46:44 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/groupmate/public_html/group.php on line 21
+[29-Nov-2015 23:48:16 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/groupmate/public_html/testtest.php on line 41
+[29-Nov-2015 23:50:12 America/Chicago] PHP Parse error:  syntax error, unexpected 'i' (T_STRING), expecting ';' in /home/groupmate/public_html/testtest.php on line 42
+[29-Nov-2015 23:50:29 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/groupmate/public_html/group.php on line 28
+[29-Nov-2015 23:50:34 America/Chicago] PHP Parse error:  syntax error, unexpected 'i' (T_STRING) in /home/groupmate/public_html/testtest.php on line 42
+[29-Nov-2015 23:50:42 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/groupmate/public_html/group.php on line 21
+[29-Nov-2015 23:51:16 America/Chicago] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/groupmate/public_html/testtest.php on line 42
+[29-Nov-2015 23:51:40 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_result::num_rows() in /home/groupmate/public_html/testtest.php on line 42
+[30-Nov-2015 00:04:24 America/Chicago] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/groupmate/public_html/testtest.php on line 40
+[30-Nov-2015 00:07:26 America/Chicago] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/groupmate/public_html/testtest.php on line 40
+[30-Nov-2015 00:10:45 America/Chicago] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/groupmate/public_html/testtest.php on line 40
+[30-Nov-2015 00:15:27 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/groupmate/public_html/testtest.php on line 18
+[30-Nov-2015 00:16:40 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/groupmate/public_html/testtest.php on line 19
+[30-Nov-2015 00:17:24 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/groupmate/public_html/testtest.php on line 19
+[30-Nov-2015 00:17:41 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/groupmate/public_html/testtest.php on line 19
+[30-Nov-2015 00:18:00 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/groupmate/public_html/testtest.php on line 19
+[30-Nov-2015 00:18:03 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/groupmate/public_html/testtest.php on line 19
+[30-Nov-2015 00:18:31 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/groupmate/public_html/testtest.php on line 20
+[30-Nov-2015 00:18:57 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/groupmate/public_html/testtest.php on line 24
+[30-Nov-2015 00:19:46 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/groupmate/public_html/testtest.php on line 24
+[30-Nov-2015 00:19:56 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/groupmate/public_html/testtest.php on line 24
+[30-Nov-2015 00:22:09 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_result::mysqli_fetch_assoc() in /home/groupmate/public_html/testtest.php on line 23
+[30-Nov-2015 13:53:00 America/Chicago] PHP Parse error:  syntax error, unexpected '$this_user_id' (T_VARIABLE) in /home/groupmate/public_html/group.php on line 22
+[30-Nov-2015 13:53:08 America/Chicago] PHP Parse error:  syntax error, unexpected '$this_user_id' (T_VARIABLE) in /home/groupmate/public_html/group.php on line 22
+[30-Nov-2015 13:56:38 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/groupmate/public_html/group.php:14) in /home/groupmate/public_html/group.php on line 16
+[30-Nov-2015 14:06:58 America/Chicago] PHP Parse error:  syntax error, unexpected '$this_user_name' (T_VARIABLE) in /home/groupmate/public_html/group.php on line 24
+[30-Nov-2015 14:07:03 America/Chicago] PHP Parse error:  syntax error, unexpected '$this_user_name' (T_VARIABLE) in /home/groupmate/public_html/group.php on line 24
+[30-Nov-2015 14:15:11 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/groupmate/public_html/group.php on line 35
+[30-Nov-2015 14:15:44 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/groupmate/public_html/group.php on line 35
+[30-Nov-2015 14:16:37 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/groupmate/public_html/group.php on line 34
+[30-Nov-2015 14:17:01 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/groupmate/public_html/group.php on line 34
+[30-Nov-2015 14:17:36 America/Chicago] PHP Parse error:  syntax error, unexpected ''</label>'' (T_CONSTANT_ENCAPSED_STRING) in /home/groupmate/public_html/group.php on line 30
+[30-Nov-2015 14:17:46 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/groupmate/public_html/group.php on line 33
+[30-Nov-2015 14:17:56 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/groupmate/public_html/group.php on line 33
+[30-Nov-2015 14:17:59 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/groupmate/public_html/group.php on line 32
+[30-Nov-2015 14:18:11 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/groupmate/public_html/group.php on line 32
+[30-Nov-2015 14:18:27 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/groupmate/public_html/group.php on line 32
+[30-Nov-2015 14:18:56 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/groupmate/public_html/group.php on line 33
+[30-Nov-2015 14:19:46 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/groupmate/public_html/group.php on line 34
+[30-Nov-2015 15:19:31 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/groupmate/public_html/main_page.php on line 75
+[30-Nov-2015 15:28:03 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/groupmate/public_html/main_page.php:73) in /home/groupmate/public_html/main_page.php on line 74
+[30-Nov-2015 15:35:01 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/groupmate/public_html/main_page.php on line 83
+[30-Nov-2015 15:35:58 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/groupmate/public_html/main_page.php on line 83
+[30-Nov-2015 15:36:01 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/groupmate/public_html/main_page.php on line 83
+[30-Nov-2015 15:37:23 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/groupmate/public_html/main_page.php on line 83
+[30-Nov-2015 15:37:56 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/groupmate/public_html/main_page.php on line 83
+[30-Nov-2015 15:37:57 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/groupmate/public_html/main_page.php on line 83
+[30-Nov-2015 15:38:05 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/groupmate/public_html/main_page.php on line 83
+[30-Nov-2015 15:38:06 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/groupmate/public_html/main_page.php on line 83
+[30-Nov-2015 15:38:06 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/groupmate/public_html/main_page.php on line 83
+[30-Nov-2015 15:38:06 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/groupmate/public_html/main_page.php on line 83
+[30-Nov-2015 15:38:07 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/groupmate/public_html/main_page.php on line 83
+[30-Nov-2015 15:38:07 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/groupmate/public_html/main_page.php on line 83
+[30-Nov-2015 15:41:58 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/groupmate/public_html/main_page.php on line 83
+[30-Nov-2015 15:42:25 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/groupmate/public_html/main_page.php on line 83
+[30-Nov-2015 15:42:39 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/groupmate/public_html/main_page.php on line 83
+[30-Nov-2015 15:44:53 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/groupmate/public_html/main_page.php on line 83
+[30-Nov-2015 15:48:34 America/Chicago] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/groupmate/public_html/main_page.php on line 85
+[30-Nov-2015 15:48:34 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/groupmate/public_html/main_page.php on line 90
+[30-Nov-2015 15:49:43 America/Chicago] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/groupmate/public_html/main_page.php on line 86
+[30-Nov-2015 15:49:43 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/groupmate/public_html/main_page.php on line 91
+[30-Nov-2015 15:50:31 America/Chicago] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/groupmate/public_html/main_page.php on line 86
+[30-Nov-2015 15:50:31 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/groupmate/public_html/main_page.php on line 91
+[30-Nov-2015 15:56:03 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/groupmate/public_html/main_page.php on line 152
+[30-Nov-2015 15:56:57 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/groupmate/public_html/main_page.php on line 152
+[30-Nov-2015 15:56:57 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/groupmate/public_html/main_page.php on line 152
+[30-Nov-2015 15:56:57 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/groupmate/public_html/main_page.php on line 152
+[30-Nov-2015 15:57:42 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/groupmate/public_html/main_page.php on line 152
+[30-Nov-2015 15:57:43 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/groupmate/public_html/main_page.php on line 152
+[30-Nov-2015 15:57:43 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/groupmate/public_html/main_page.php on line 152
+[30-Nov-2015 15:57:44 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/groupmate/public_html/main_page.php on line 152
+[30-Nov-2015 15:57:44 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/groupmate/public_html/main_page.php on line 152
+[30-Nov-2015 15:58:51 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/groupmate/public_html/main_page.php on line 84
+[30-Nov-2015 16:01:11 America/Chicago] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/groupmate/public_html/group.php on line 25
+[30-Nov-2015 16:01:13 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/groupmate/public_html/main_page.php on line 87
+[30-Nov-2015 16:01:14 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/groupmate/public_html/main_page.php on line 87
+[30-Nov-2015 16:01:45 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/groupmate/public_html/main_page.php on line 87
+[30-Nov-2015 16:01:46 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/groupmate/public_html/main_page.php on line 87
+[30-Nov-2015 16:05:08 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/groupmate/public_html/main_page.php on line 84
+[30-Nov-2015 16:05:09 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/groupmate/public_html/main_page.php on line 84
+[30-Nov-2015 16:08:48 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home/groupmate/public_html/main_page.php on line 82
+[30-Nov-2015 16:08:48 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/groupmate/public_html/main_page.php on line 83
+[30-Nov-2015 16:16:45 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/groupmate/public_html/main_page.php on line 84
+[30-Nov-2015 16:20:16 America/Chicago] PHP Parse error:  syntax error, unexpected 'bill_id' (T_STRING) in /home/groupmate/public_html/main_page.php on line 84
+[30-Nov-2015 16:21:24 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/groupmate/public_html/main_page.php on line 84
+[30-Nov-2015 16:23:04 America/Chicago] PHP Parse error:  syntax error, unexpected 'SELECT' (T_STRING) in /home/groupmate/public_html/main_page.php on line 86
+[30-Nov-2015 16:23:14 America/Chicago] PHP Parse error:  syntax error, unexpected 'SELECT' (T_STRING) in /home/groupmate/public_html/main_page.php on line 86
+[30-Nov-2015 16:23:15 America/Chicago] PHP Parse error:  syntax error, unexpected 'SELECT' (T_STRING) in /home/groupmate/public_html/main_page.php on line 86
+[30-Nov-2015 16:23:16 America/Chicago] PHP Parse error:  syntax error, unexpected 'SELECT' (T_STRING) in /home/groupmate/public_html/main_page.php on line 86
+[30-Nov-2015 17:14:06 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 88
+[30-Nov-2015 17:14:06 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 83
+[30-Nov-2015 17:15:40 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 89
+[30-Nov-2015 17:17:04 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 89
+[30-Nov-2015 17:17:32 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/groupmate/public_html/main_page.php on line 89
+[30-Nov-2015 17:18:12 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 89
+[30-Nov-2015 17:33:08 America/Chicago] PHP Warning:  Division by zero in /home/groupmate/public_html/main_page.php on line 93
+[30-Nov-2015 17:33:08 America/Chicago] PHP Warning:  Division by zero in /home/groupmate/public_html/main_page.php on line 93
+[30-Nov-2015 17:36:07 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, string given in /home/groupmate/public_html/main_page.php on line 93
+[30-Nov-2015 17:36:07 America/Chicago] PHP Warning:  Division by zero in /home/groupmate/public_html/main_page.php on line 94
+[30-Nov-2015 17:36:07 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, string given in /home/groupmate/public_html/main_page.php on line 93
+[30-Nov-2015 17:36:07 America/Chicago] PHP Warning:  Division by zero in /home/groupmate/public_html/main_page.php on line 94
+[30-Nov-2015 17:36:56 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, object given in /home/groupmate/public_html/main_page.php on line 94
+[30-Nov-2015 17:36:56 America/Chicago] PHP Warning:  Division by zero in /home/groupmate/public_html/main_page.php on line 95
+[30-Nov-2015 17:36:56 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, object given in /home/groupmate/public_html/main_page.php on line 94
+[30-Nov-2015 17:36:56 America/Chicago] PHP Warning:  Division by zero in /home/groupmate/public_html/main_page.php on line 95
+[30-Nov-2015 17:37:14 America/Chicago] PHP Warning:  Division by zero in /home/groupmate/public_html/main_page.php on line 95
+[30-Nov-2015 17:37:14 America/Chicago] PHP Warning:  Division by zero in /home/groupmate/public_html/main_page.php on line 95
+[30-Nov-2015 17:44:40 America/Chicago] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR), expecting ',' or ';' in /home/groupmate/public_html/main_page.php on line 94
+[30-Nov-2015 17:54:23 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, object given in /home/groupmate/public_html/main_page.php on line 94
+[30-Nov-2015 17:54:23 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, object given in /home/groupmate/public_html/main_page.php on line 94
+[30-Nov-2015 19:40:09 America/Chicago] PHP Parse error:  syntax error, unexpected 'Orders' (T_STRING) in /home/groupmate/public_html/transaction.php on line 36
+[30-Nov-2015 19:45:53 America/Chicago] PHP Parse error:  syntax error, unexpected '' . $this_user_id .'' (T_CONSTANT_ENCAPSED_STRING) in /home/groupmate/public_html/transaction.php on line 29
+[30-Nov-2015 19:46:18 America/Chicago] PHP Parse error:  syntax error, unexpected 'form' (T_STRING) in /home/groupmate/public_html/transaction.php on line 35
+[30-Nov-2015 19:47:03 America/Chicago] PHP Parse error:  syntax error, unexpected 'form' (T_STRING) in /home/groupmate/public_html/transaction.php on line 35
+[30-Nov-2015 19:49:09 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/transaction.php on line 31
+[30-Nov-2015 19:49:40 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/transaction.php on line 31
+[30-Nov-2015 19:51:17 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/transaction.php on line 30
+[30-Nov-2015 19:52:01 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/transaction.php on line 30
+[30-Nov-2015 19:52:46 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting identifier (T_STRING) in /home/groupmate/public_html/transaction.php on line 29
+[30-Nov-2015 19:53:04 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/transaction.php on line 31
+[30-Nov-2015 20:44:00 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/groupmate/public_html/summary.php:10) in /home/groupmate/public_html/summary.php on line 11
+[30-Nov-2015 21:31:08 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 89
+[30-Nov-2015 21:31:13 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 89
+[30-Nov-2015 21:31:50 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 89
+[30-Nov-2015 21:54:44 America/Chicago] PHP Parse error:  syntax error, unexpected ''' (T_CONSTANT_ENCAPSED_STRING) in /home/groupmate/public_html/add_bill.php on line 19
+[30-Nov-2015 21:59:51 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/add_bill.php on line 26
+[30-Nov-2015 22:02:37 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/groupmate/public_html/add_friend.php on line 10
+[30-Nov-2015 22:04:26 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home/groupmate/public_html/add_friend.php on line 11
+[30-Nov-2015 22:24:52 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home/groupmate/public_html/add_friend.php on line 11
+[30-Nov-2015 22:25:17 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home/groupmate/public_html/add_bill.php on line 17
+[30-Nov-2015 22:25:17 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/add_bill.php on line 18
+[30-Nov-2015 22:25:17 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/add_bill.php on line 36
+[30-Nov-2015 22:26:20 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home/groupmate/public_html/add_friend.php on line 12
+[30-Nov-2015 22:26:23 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home/groupmate/public_html/add_bill.php on line 17
+[30-Nov-2015 22:26:23 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/add_bill.php on line 18
+[30-Nov-2015 22:26:23 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/add_bill.php on line 36
+[30-Nov-2015 22:26:25 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home/groupmate/public_html/add_friend.php on line 12
+[30-Nov-2015 22:27:17 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home/groupmate/public_html/add_friend.php on line 12
+[30-Nov-2015 22:27:22 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home/groupmate/public_html/add_friend.php on line 12
+[30-Nov-2015 22:27:28 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home/groupmate/public_html/add_friend.php on line 12
+[30-Nov-2015 22:28:15 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/add_bill.php on line 18
+[30-Nov-2015 22:28:15 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/add_bill.php on line 36
+[30-Nov-2015 22:28:21 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home/groupmate/public_html/add_friend.php on line 12
+[30-Nov-2015 22:29:22 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/add_bill.php on line 18
+[30-Nov-2015 22:29:22 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/add_bill.php on line 36
+[30-Nov-2015 22:30:38 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/add_bill.php on line 18
+[30-Nov-2015 22:30:38 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/add_bill.php on line 36
+[30-Nov-2015 22:33:31 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/add_bill.php on line 20
+[30-Nov-2015 22:34:24 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/add_bill.php on line 35
+[30-Nov-2015 22:37:03 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/add_bill.php on line 36
+[30-Nov-2015 22:40:30 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/groupmate/public_html/add_bill.php on line 35
+[30-Nov-2015 22:41:37 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/groupmate/public_html/add_friend.php on line 12
+[30-Nov-2015 22:41:37 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/groupmate/public_html/add_friend.php on line 15
+[30-Nov-2015 22:41:37 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/groupmate/public_html/add_friend.php on line 18
+[30-Nov-2015 22:41:37 America/Chicago] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/groupmate/public_html/add_friend.php on line 20
+[30-Nov-2015 22:42:00 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/groupmate/public_html/add_friend.php on line 12
+[30-Nov-2015 22:42:00 America/Chicago] PHP Fatal error:  Function name must be a string in /home/groupmate/public_html/add_friend.php on line 15
+[30-Nov-2015 22:42:02 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/groupmate/public_html/add_friend.php on line 12
+[30-Nov-2015 22:42:02 America/Chicago] PHP Fatal error:  Function name must be a string in /home/groupmate/public_html/add_friend.php on line 15
+[30-Nov-2015 22:43:59 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/groupmate/public_html/add_friend.php on line 16
+[30-Nov-2015 22:43:59 America/Chicago] PHP Fatal error:  Function name must be a string in /home/groupmate/public_html/add_friend.php on line 19
+[30-Nov-2015 22:43:59 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/groupmate/public_html/add_friend.php on line 16
+[30-Nov-2015 22:43:59 America/Chicago] PHP Fatal error:  Function name must be a string in /home/groupmate/public_html/add_friend.php on line 19
+[30-Nov-2015 22:47:31 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/groupmate/public_html/add_friend.php on line 16
+[30-Nov-2015 22:47:31 America/Chicago] PHP Fatal error:  Function name must be a string in /home/groupmate/public_html/add_friend.php on line 19
+[30-Nov-2015 22:48:56 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home/groupmate/public_html/add_friend.php on line 16
+[30-Nov-2015 22:48:56 America/Chicago] PHP Fatal error:  Function name must be a string in /home/groupmate/public_html/add_friend.php on line 19
+[30-Nov-2015 22:49:11 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/groupmate/public_html/add_friend.php on line 16
+[30-Nov-2015 22:49:11 America/Chicago] PHP Fatal error:  Function name must be a string in /home/groupmate/public_html/add_friend.php on line 19
+[30-Nov-2015 22:49:21 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home/groupmate/public_html/add_friend.php on line 16
+[30-Nov-2015 22:49:21 America/Chicago] PHP Fatal error:  Function name must be a string in /home/groupmate/public_html/add_friend.php on line 19
+[30-Nov-2015 22:50:04 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home/groupmate/public_html/add_friend.php on line 16
+[30-Nov-2015 22:50:04 America/Chicago] PHP Fatal error:  Function name must be a string in /home/groupmate/public_html/add_friend.php on line 24
+[30-Nov-2015 22:50:15 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home/groupmate/public_html/add_friend.php on line 16
+[30-Nov-2015 22:50:17 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home/groupmate/public_html/add_friend.php on line 16
+[30-Nov-2015 22:50:18 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home/groupmate/public_html/add_friend.php on line 16
+[30-Nov-2015 22:50:19 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home/groupmate/public_html/add_friend.php on line 16
+[30-Nov-2015 22:50:34 America/Chicago] PHP Parse error:  syntax error, unexpected 'require' (T_REQUIRE), expecting ',' or ';' in /home/groupmate/public_html/add_friend.php on line 9
+[30-Nov-2015 22:50:42 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home/groupmate/public_html/add_friend.php on line 17
+[30-Nov-2015 22:55:25 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home/groupmate/public_html/add_friend.php on line 11
+[30-Nov-2015 22:55:44 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home/groupmate/public_html/add_friend.php on line 11
+[30-Nov-2015 22:56:42 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home/groupmate/public_html/add_friend.php on line 12
+[30-Nov-2015 22:57:05 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home/groupmate/public_html/add_friend.php on line 12
+[30-Nov-2015 22:57:59 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home/groupmate/public_html/add_friend.php on line 12
+[30-Nov-2015 23:02:48 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/groupmate/public_html/add_friend.php on line 14
+[30-Nov-2015 23:05:31 America/Chicago] PHP Parse error:  syntax error, unexpected '$nig' (T_VARIABLE) in /home/groupmate/public_html/add_friend.php on line 15
+[30-Nov-2015 23:05:57 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/groupmate/public_html/add_friend.php on line 18
+[30-Nov-2015 23:14:37 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/groupmate/public_html/add_friend.php on line 23
+[30-Nov-2015 23:14:49 America/Chicago] PHP Parse error:  syntax error, unexpected ':' in /home/groupmate/public_html/add_friend.php on line 23
+[30-Nov-2015 23:16:24 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 89
+[30-Nov-2015 23:18:06 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 89
+[30-Nov-2015 23:19:58 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 89
+[30-Nov-2015 23:23:53 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 89
+[30-Nov-2015 23:32:29 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/groupmate/public_html/testtest.php on line 80
+[30-Nov-2015 23:33:52 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/testtest.php on line 81
+[30-Nov-2015 23:54:48 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/testtest.php on line 83
+[01-Dec-2015 14:53:40 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 89
+[01-Dec-2015 14:53:40 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 111
+[01-Dec-2015 14:55:02 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 89
+[01-Dec-2015 14:55:02 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 111
+[01-Dec-2015 14:55:03 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 89
+[01-Dec-2015 14:55:03 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 111
+[01-Dec-2015 14:55:03 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 89
+[01-Dec-2015 14:55:03 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 111
+[01-Dec-2015 14:55:03 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 89
+[01-Dec-2015 14:55:03 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 111
+[01-Dec-2015 14:55:03 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 89
+[01-Dec-2015 14:55:03 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 111
+[01-Dec-2015 14:55:22 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 89
+[01-Dec-2015 14:57:45 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 89
+[01-Dec-2015 14:57:46 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 89
+[01-Dec-2015 15:01:21 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 89
+[01-Dec-2015 15:01:22 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 89
+[01-Dec-2015 15:01:22 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 89
+[01-Dec-2015 15:03:47 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 89
+[01-Dec-2015 15:03:47 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 89
+[01-Dec-2015 15:03:48 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 89
+[01-Dec-2015 15:03:48 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 89
+[01-Dec-2015 15:07:59 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 89
+[01-Dec-2015 15:08:02 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 89
+[01-Dec-2015 15:09:10 America/Chicago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/groupmate/public_html/main_page.php on line 89
+[01-Dec-2015 15:17:27 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/groupmate/public_html/main_page.php on line 172
+[01-Dec-2015 15:19:02 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/groupmate/public_html/main_page.php on line 172
+[01-Dec-2015 15:27:27 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 90
+[01-Dec-2015 15:29:03 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/groupmate/public_html/main_page.php on line 105
+[01-Dec-2015 16:21:53 America/Chicago] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/groupmate/public_html/main_page.php on line 90
+[01-Dec-2015 16:22:22 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /home/groupmate/public_html/main_page.php on line 93
+[01-Dec-2015 16:22:39 America/Chicago] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/groupmate/public_html/main_page.php on line 93
+[01-Dec-2015 16:22:39 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/groupmate/public_html/main_page.php on line 94
+[01-Dec-2015 16:22:39 America/Chicago] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/groupmate/public_html/main_page.php on line 93
+[01-Dec-2015 16:22:39 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/groupmate/public_html/main_page.php on line 94
+[01-Dec-2015 16:23:38 America/Chicago] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/groupmate/public_html/main_page.php on line 93
+[01-Dec-2015 16:23:38 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/groupmate/public_html/main_page.php on line 94
+[01-Dec-2015 16:23:38 America/Chicago] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/groupmate/public_html/main_page.php on line 93
+[01-Dec-2015 16:23:38 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/groupmate/public_html/main_page.php on line 94
+[01-Dec-2015 16:32:56 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/groupmate/public_html/main_page.php on line 117
+[01-Dec-2015 19:06:41 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/groupmate/public_html/main_page.php on line 116
+[01-Dec-2015 19:47:48 America/Chicago] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in /home/groupmate/public_html/change_details.php on line 12
+[01-Dec-2015 19:47:48 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/groupmate/public_html/change_details.php on line 14
+[01-Dec-2015 19:51:10 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_num_row() in /home/groupmate/public_html/main_page.php on line 122
+[01-Dec-2015 19:51:28 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 127
+[01-Dec-2015 19:51:28 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 127
+[01-Dec-2015 19:52:35 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 127
+[01-Dec-2015 19:52:35 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 127
+[01-Dec-2015 19:54:52 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 127
+[01-Dec-2015 19:54:52 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 127
+[01-Dec-2015 19:54:53 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 127
+[01-Dec-2015 19:54:53 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 127
+[01-Dec-2015 19:56:21 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 19:56:21 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 19:56:21 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 19:56:21 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 19:56:21 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 19:56:21 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 19:56:21 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 19:56:21 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 19:57:19 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 19:57:19 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 19:57:19 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 19:57:19 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 19:57:19 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 19:57:19 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 19:57:19 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 19:57:19 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 19:59:00 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 19:59:00 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 19:59:00 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 19:59:00 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 19:59:00 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 19:59:00 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 19:59:00 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 19:59:00 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 20:01:22 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 20:01:22 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 132
+[01-Dec-2015 20:01:22 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 20:01:22 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 132
+[01-Dec-2015 20:01:22 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 20:01:22 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 132
+[01-Dec-2015 20:01:22 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 20:01:22 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 132
+[01-Dec-2015 20:01:22 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 20:01:22 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 132
+[01-Dec-2015 20:01:22 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 20:01:22 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 132
+[01-Dec-2015 20:01:22 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 20:01:22 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 132
+[01-Dec-2015 20:01:22 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 20:01:22 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 132
+[01-Dec-2015 20:01:23 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 20:01:23 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 132
+[01-Dec-2015 20:01:23 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 20:01:23 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 132
+[01-Dec-2015 20:01:23 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 20:01:23 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 132
+[01-Dec-2015 20:01:23 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 20:01:23 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 132
+[01-Dec-2015 20:01:23 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 20:01:23 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 132
+[01-Dec-2015 20:01:23 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 20:01:23 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 132
+[01-Dec-2015 20:01:23 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 20:01:23 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 132
+[01-Dec-2015 20:01:23 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 20:01:23 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 132
+[01-Dec-2015 20:01:24 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 20:01:24 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 132
+[01-Dec-2015 20:01:24 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 20:01:24 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 132
+[01-Dec-2015 20:01:24 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 20:01:24 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 132
+[01-Dec-2015 20:01:24 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 20:01:24 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 132
+[01-Dec-2015 20:01:24 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 20:01:24 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 132
+[01-Dec-2015 20:01:24 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 20:01:24 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 132
+[01-Dec-2015 20:01:24 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 20:01:24 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 132
+[01-Dec-2015 20:01:24 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 20:01:24 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 132
+[01-Dec-2015 20:01:24 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 20:01:24 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 132
+[01-Dec-2015 20:01:24 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 20:01:24 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 132
+[01-Dec-2015 20:01:24 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 20:01:24 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 132
+[01-Dec-2015 20:01:24 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 20:01:24 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 132
+[01-Dec-2015 20:01:24 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 20:01:24 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 132
+[01-Dec-2015 20:01:24 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 20:01:24 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 132
+[01-Dec-2015 20:01:24 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 20:01:24 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 132
+[01-Dec-2015 20:01:24 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 20:01:24 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 132
+[01-Dec-2015 20:01:24 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 20:01:24 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 132
+[01-Dec-2015 20:01:24 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 20:01:24 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 132
+[01-Dec-2015 20:01:24 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 20:01:24 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 132
+[01-Dec-2015 20:01:24 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 20:01:24 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 132
+[01-Dec-2015 20:01:24 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 20:01:24 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 132
+[01-Dec-2015 20:01:24 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 20:01:24 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 132
+[01-Dec-2015 20:01:24 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 20:01:24 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 132
+[01-Dec-2015 20:01:24 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 20:01:24 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 132
+[01-Dec-2015 20:07:01 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 127
+[01-Dec-2015 20:07:01 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 127
+[01-Dec-2015 20:15:24 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 20:19:49 America/Chicago] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in /home/groupmate/public_html/change_details.php on line 102
+[01-Dec-2015 20:19:49 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/groupmate/public_html/change_details.php on line 104
+[01-Dec-2015 20:20:08 America/Chicago] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in /home/groupmate/public_html/change_details.php on line 102
+[01-Dec-2015 20:20:08 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/groupmate/public_html/change_details.php on line 104
+[01-Dec-2015 20:22:05 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/groupmate/public_html/main_page.php on line 123
+[01-Dec-2015 20:22:05 America/Chicago] PHP Warning:  Division by zero in /home/groupmate/public_html/main_page.php on line 125
+[01-Dec-2015 20:22:05 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/groupmate/public_html/main_page.php on line 123
+[01-Dec-2015 20:22:05 America/Chicago] PHP Warning:  Division by zero in /home/groupmate/public_html/main_page.php on line 125
+[01-Dec-2015 20:35:19 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/groupmate/public_html/main_page.php on line 150
+[01-Dec-2015 20:43:21 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/groupmate/public_html/main_page.php on line 150
+[01-Dec-2015 21:08:26 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/groupmate/public_html/main_page.php on line 150
+[01-Dec-2015 21:09:15 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/groupmate/public_html/main_page.php on line 150
+[01-Dec-2015 22:08:27 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/groupmate/public_html/main_page.php on line 91
+[01-Dec-2015 22:08:50 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/groupmate/public_html/main_page.php on line 104
+[01-Dec-2015 22:19:26 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/groupmate/public_html/main_page.php on line 83
+[01-Dec-2015 22:19:53 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/groupmate/public_html/main_page.php on line 179
+[01-Dec-2015 22:20:40 America/Chicago] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 0 given in /home/groupmate/public_html/main_page.php on line 110
+[01-Dec-2015 22:22:50 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 103
+[01-Dec-2015 22:30:00 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home/groupmate/public_html/main_page.php on line 101
+[01-Dec-2015 22:30:00 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 102
+[01-Dec-2015 22:45:29 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 129
+[01-Dec-2015 22:46:26 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 130
+[01-Dec-2015 22:46:27 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 130
+[01-Dec-2015 22:48:37 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/groupmate/public_html/yuching.php:92) in /home/groupmate/public_html/yuching.php on line 112
+[01-Dec-2015 22:54:05 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 22:54:06 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 22:54:07 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 22:54:08 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 22:54:08 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 22:54:08 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 23:06:27 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 121
+[01-Dec-2015 23:06:27 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 122
+[01-Dec-2015 23:06:27 America/Chicago] PHP Warning:  Division by zero in /home/groupmate/public_html/main_page.php on line 123
+[01-Dec-2015 23:11:36 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/groupmate/public_html/yuching.php on line 8
+[01-Dec-2015 23:11:55 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/groupmate/public_html/yuching.php on line 8
+[01-Dec-2015 23:12:10 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/groupmate/public_html/main_page.php on line 199
+[01-Dec-2015 23:12:32 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/groupmate/public_html/main_page.php on line 199
+[01-Dec-2015 23:12:58 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/groupmate/public_html/main_page.php on line 199
+[01-Dec-2015 23:13:14 America/Chicago] PHP Warning:  mysqli_fetch_array(): The result type should be either MYSQLI_NUM, MYSQLI_ASSOC or MYSQLI_BOTH in /home/groupmate/public_html/main_page.php on line 122
+[01-Dec-2015 23:13:14 America/Chicago] PHP Warning:  mysqli_fetch_array(): The result type should be either MYSQLI_NUM, MYSQLI_ASSOC or MYSQLI_BOTH in /home/groupmate/public_html/main_page.php on line 124
+[01-Dec-2015 23:14:36 America/Chicago] PHP Warning:  mysqli_fetch_array(): The result type should be either MYSQLI_NUM, MYSQLI_ASSOC or MYSQLI_BOTH in /home/groupmate/public_html/main_page.php on line 122
+[01-Dec-2015 23:14:36 America/Chicago] PHP Warning:  mysqli_fetch_array(): The result type should be either MYSQLI_NUM, MYSQLI_ASSOC or MYSQLI_BOTH in /home/groupmate/public_html/main_page.php on line 124
+[01-Dec-2015 23:14:36 America/Chicago] PHP Warning:  mysqli_fetch_array(): The result type should be either MYSQLI_NUM, MYSQLI_ASSOC or MYSQLI_BOTH in /home/groupmate/public_html/main_page.php on line 122
+[01-Dec-2015 23:14:36 America/Chicago] PHP Warning:  mysqli_fetch_array(): The result type should be either MYSQLI_NUM, MYSQLI_ASSOC or MYSQLI_BOTH in /home/groupmate/public_html/main_page.php on line 124
+[01-Dec-2015 23:14:36 America/Chicago] PHP Warning:  mysqli_fetch_array(): The result type should be either MYSQLI_NUM, MYSQLI_ASSOC or MYSQLI_BOTH in /home/groupmate/public_html/main_page.php on line 122
+[01-Dec-2015 23:14:36 America/Chicago] PHP Warning:  mysqli_fetch_array(): The result type should be either MYSQLI_NUM, MYSQLI_ASSOC or MYSQLI_BOTH in /home/groupmate/public_html/main_page.php on line 124
+[01-Dec-2015 23:14:36 America/Chicago] PHP Warning:  mysqli_fetch_array(): The result type should be either MYSQLI_NUM, MYSQLI_ASSOC or MYSQLI_BOTH in /home/groupmate/public_html/main_page.php on line 122
+[01-Dec-2015 23:14:36 America/Chicago] PHP Warning:  mysqli_fetch_array(): The result type should be either MYSQLI_NUM, MYSQLI_ASSOC or MYSQLI_BOTH in /home/groupmate/public_html/main_page.php on line 124
+[01-Dec-2015 23:14:36 America/Chicago] PHP Warning:  mysqli_fetch_array(): The result type should be either MYSQLI_NUM, MYSQLI_ASSOC or MYSQLI_BOTH in /home/groupmate/public_html/main_page.php on line 122
+[01-Dec-2015 23:14:36 America/Chicago] PHP Warning:  mysqli_fetch_array(): The result type should be either MYSQLI_NUM, MYSQLI_ASSOC or MYSQLI_BOTH in /home/groupmate/public_html/main_page.php on line 124
+[01-Dec-2015 23:14:36 America/Chicago] PHP Warning:  mysqli_fetch_array(): The result type should be either MYSQLI_NUM, MYSQLI_ASSOC or MYSQLI_BOTH in /home/groupmate/public_html/main_page.php on line 122
+[01-Dec-2015 23:14:36 America/Chicago] PHP Warning:  mysqli_fetch_array(): The result type should be either MYSQLI_NUM, MYSQLI_ASSOC or MYSQLI_BOTH in /home/groupmate/public_html/main_page.php on line 124
+[01-Dec-2015 23:14:36 America/Chicago] PHP Warning:  mysqli_fetch_array(): The result type should be either MYSQLI_NUM, MYSQLI_ASSOC or MYSQLI_BOTH in /home/groupmate/public_html/main_page.php on line 122
+[01-Dec-2015 23:14:36 America/Chicago] PHP Warning:  mysqli_fetch_array(): The result type should be either MYSQLI_NUM, MYSQLI_ASSOC or MYSQLI_BOTH in /home/groupmate/public_html/main_page.php on line 124
+[01-Dec-2015 23:14:36 America/Chicago] PHP Warning:  mysqli_fetch_array(): The result type should be either MYSQLI_NUM, MYSQLI_ASSOC or MYSQLI_BOTH in /home/groupmate/public_html/main_page.php on line 122
+[01-Dec-2015 23:14:36 America/Chicago] PHP Warning:  mysqli_fetch_array(): The result type should be either MYSQLI_NUM, MYSQLI_ASSOC or MYSQLI_BOTH in /home/groupmate/public_html/main_page.php on line 124
+[01-Dec-2015 23:14:36 America/Chicago] PHP Warning:  mysqli_fetch_array(): The result type should be either MYSQLI_NUM, MYSQLI_ASSOC or MYSQLI_BOTH in /home/groupmate/public_html/main_page.php on line 122
+[01-Dec-2015 23:14:36 America/Chicago] PHP Warning:  mysqli_fetch_array(): The result type should be either MYSQLI_NUM, MYSQLI_ASSOC or MYSQLI_BOTH in /home/groupmate/public_html/main_page.php on line 124
+[01-Dec-2015 23:14:36 America/Chicago] PHP Warning:  mysqli_fetch_array(): The result type should be either MYSQLI_NUM, MYSQLI_ASSOC or MYSQLI_BOTH in /home/groupmate/public_html/main_page.php on line 122
+[01-Dec-2015 23:14:36 America/Chicago] PHP Warning:  mysqli_fetch_array(): The result type should be either MYSQLI_NUM, MYSQLI_ASSOC or MYSQLI_BOTH in /home/groupmate/public_html/main_page.php on line 124
+[01-Dec-2015 23:14:36 America/Chicago] PHP Warning:  mysqli_fetch_array(): The result type should be either MYSQLI_NUM, MYSQLI_ASSOC or MYSQLI_BOTH in /home/groupmate/public_html/main_page.php on line 122
+[01-Dec-2015 23:14:36 America/Chicago] PHP Warning:  mysqli_fetch_array(): The result type should be either MYSQLI_NUM, MYSQLI_ASSOC or MYSQLI_BOTH in /home/groupmate/public_html/main_page.php on line 124
+[01-Dec-2015 23:14:36 America/Chicago] PHP Warning:  mysqli_fetch_array(): The result type should be either MYSQLI_NUM, MYSQLI_ASSOC or MYSQLI_BOTH in /home/groupmate/public_html/main_page.php on line 122
+[01-Dec-2015 23:14:36 America/Chicago] PHP Warning:  mysqli_fetch_array(): The result type should be either MYSQLI_NUM, MYSQLI_ASSOC or MYSQLI_BOTH in /home/groupmate/public_html/main_page.php on line 124
+[01-Dec-2015 23:14:36 America/Chicago] PHP Warning:  mysqli_fetch_array(): The result type should be either MYSQLI_NUM, MYSQLI_ASSOC or MYSQLI_BOTH in /home/groupmate/public_html/main_page.php on line 122
+[01-Dec-2015 23:14:36 America/Chicago] PHP Warning:  mysqli_fetch_array(): The result type should be either MYSQLI_NUM, MYSQLI_ASSOC or MYSQLI_BOTH in /home/groupmate/public_html/main_page.php on line 124
+[01-Dec-2015 23:15:07 America/Chicago] PHP Warning:  mysqli_fetch_array(): The result type should be either MYSQLI_NUM, MYSQLI_ASSOC or MYSQLI_BOTH in /home/groupmate/public_html/main_page.php on line 124
+[01-Dec-2015 23:18:26 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 130
+[01-Dec-2015 23:18:26 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 130
+[01-Dec-2015 23:18:26 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 130
+[01-Dec-2015 23:24:20 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 23:24:20 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 23:24:20 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 23:24:20 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 23:24:35 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 23:24:35 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 23:24:35 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 23:24:35 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 23:26:35 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 23:26:35 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 23:26:35 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 23:26:35 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 23:26:37 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 23:26:37 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 23:26:37 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 23:26:37 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 131
+[01-Dec-2015 23:47:28 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/groupmate/public_html/main_page.php on line 146
+[02-Dec-2015 00:20:01 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/groupmate/public_html/add_bill.php on line 34
+[02-Dec-2015 00:20:01 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/groupmate/public_html/add_bill.php on line 40
+[02-Dec-2015 00:25:53 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/groupmate/public_html/main_page.php on line 117
+[02-Dec-2015 00:27:47 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/groupmate/public_html/add_bill.php on line 34
+[02-Dec-2015 00:27:47 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/groupmate/public_html/add_bill.php on line 40
+[02-Dec-2015 00:30:38 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/groupmate/public_html/add_bill.php on line 32
+[02-Dec-2015 00:32:05 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/groupmate/public_html/add_bill.php on line 32
+[02-Dec-2015 00:34:05 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/groupmate/public_html/add_bill.php on line 32
+[02-Dec-2015 00:34:39 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/groupmate/public_html/add_bill.php on line 32
+[02-Dec-2015 00:37:03 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/groupmate/public_html/main_page.php on line 284
+[02-Dec-2015 00:40:44 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/groupmate/public_html/add_bill.php on line 32
+[02-Dec-2015 00:42:20 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/groupmate/public_html/add_bill.php on line 32
+[02-Dec-2015 00:43:07 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/groupmate/public_html/add_bill.php on line 32
+[02-Dec-2015 00:50:22 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/groupmate/public_html/add_bill.php on line 32
+[02-Dec-2015 00:59:31 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/groupmate/public_html/add_bill.php on line 31
+[02-Dec-2015 01:05:16 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/groupmate/public_html/add_bill.php on line 31
+[02-Dec-2015 01:09:50 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/groupmate/public_html/add_bill.php on line 31
+[02-Dec-2015 01:12:04 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/groupmate/public_html/add_bill.php on line 31
+[02-Dec-2015 01:12:51 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysql_num_rows' (T_STRING) in /home/groupmate/public_html/add_bill.php on line 33
+[02-Dec-2015 01:13:18 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, object given in /home/groupmate/public_html/add_bill.php on line 32
+[02-Dec-2015 02:13:28 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/groupmate/public_html/add_bill.php on line 76
+[02-Dec-2015 02:13:49 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/groupmate/public_html/add_bill.php on line 76
+[02-Dec-2015 02:14:43 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/groupmate/public_html/add_bill.php on line 76
+[02-Dec-2015 02:14:46 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/groupmate/public_html/add_bill.php on line 76
+[02-Dec-2015 02:15:46 America/Chicago] PHP Warning:  count() expects at least 1 parameter, 0 given in /home/groupmate/public_html/add_bill.php on line 69
+[02-Dec-2015 02:16:37 America/Chicago] PHP Warning:  trim() expects at least 1 parameter, 0 given in /home/groupmate/public_html/add_bill.php on line 71
+[02-Dec-2015 02:16:40 America/Chicago] PHP Warning:  trim() expects at least 1 parameter, 0 given in /home/groupmate/public_html/add_bill.php on line 71
+[02-Dec-2015 02:16:40 America/Chicago] PHP Warning:  trim() expects at least 1 parameter, 0 given in /home/groupmate/public_html/add_bill.php on line 71
+[02-Dec-2015 02:16:40 America/Chicago] PHP Warning:  trim() expects at least 1 parameter, 0 given in /home/groupmate/public_html/add_bill.php on line 71
+[02-Dec-2015 02:23:48 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/groupmate/public_html/add_bill.php on line 84
+[02-Dec-2015 02:25:27 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 163
+[02-Dec-2015 02:25:27 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 218
+[02-Dec-2015 15:53:21 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/groupmate/public_html/add_friend.php:23) in /home/groupmate/public_html/add_friend.php on line 25
+[02-Dec-2015 15:54:07 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/delete_friend.php on line 13
+[02-Dec-2015 15:54:07 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/groupmate/public_html/delete_friend.php:13) in /home/groupmate/public_html/delete_friend.php on line 23
+[02-Dec-2015 17:02:30 America/Chicago] PHP Parse error:  syntax error, unexpected '$name_query' (T_VARIABLE), expecting ',' or ';' in /home/groupmate/public_html/main_page.php on line 196
+[02-Dec-2015 17:07:45 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/groupmate/public_html/main_page.php on line 102
+[02-Dec-2015 17:13:30 America/Chicago] PHP Parse error:  syntax error, unexpected '/' in /home/groupmate/public_html/main_page.php on line 205
+[02-Dec-2015 17:15:01 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/groupmate/public_html/person_query.php on line 23
+[02-Dec-2015 17:15:03 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/groupmate/public_html/person_query.php on line 23
+[02-Dec-2015 17:15:03 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/groupmate/public_html/person_query.php on line 23
+[02-Dec-2015 17:15:03 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/groupmate/public_html/person_query.php on line 23
+[02-Dec-2015 17:15:49 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/groupmate/public_html/person_query.php on line 24
+[02-Dec-2015 17:15:49 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/groupmate/public_html/person_query.php on line 24
+[02-Dec-2015 17:16:04 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/groupmate/public_html/person_query.php on line 24
+[02-Dec-2015 17:16:58 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/groupmate/public_html/person_query.php on line 24
+[02-Dec-2015 17:17:41 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/groupmate/public_html/person_query.php on line 24
+[02-Dec-2015 17:17:44 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/groupmate/public_html/person_query.php on line 24
+[02-Dec-2015 17:29:35 America/Chicago] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR), expecting ',' or ';' in /home/groupmate/public_html/group.php on line 64
+[02-Dec-2015 17:30:23 America/Chicago] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR), expecting ',' or ';' in /home/groupmate/public_html/group.php on line 64
+[02-Dec-2015 17:30:31 America/Chicago] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR), expecting ',' or ';' in /home/groupmate/public_html/group.php on line 64
+[02-Dec-2015 17:32:40 America/Chicago] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR), expecting ',' or ';' in /home/groupmate/public_html/group.php on line 64
+[02-Dec-2015 17:50:28 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/groupmate/public_html/main_page.php on line 198
+[02-Dec-2015 18:45:15 America/Chicago] PHP Warning:  Illegal string offset 'item1' in /home/groupmate/public_html/tid.php on line 14
+[02-Dec-2015 18:49:48 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/groupmate/public_html/tid.php on line 14
+[02-Dec-2015 19:13:30 America/Chicago] PHP Parse error:  syntax error, unexpected 'INSERT' (T_STRING) in /home/groupmate/public_html/tid.php on line 66
+[02-Dec-2015 20:01:15 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/groupmate/public_html/tid.php on line 100
+[02-Dec-2015 20:01:54 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/groupmate/public_html/tid.php on line 100
+[02-Dec-2015 20:03:17 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/groupmate/public_html/tid.php on line 100
+[02-Dec-2015 20:27:49 America/Chicago] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/groupmate/public_html/tid.php on line 123
+[02-Dec-2015 20:49:58 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 94
+[02-Dec-2015 20:49:58 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 102
+[02-Dec-2015 20:49:58 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 170
+[02-Dec-2015 20:49:58 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 242
+[02-Dec-2015 21:30:53 America/Chicago] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/groupmate/public_html/tid.php on line 95
+[02-Dec-2015 22:35:30 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/groupmate/public_html/price_range2.php:4) in /home/groupmate/public_html/price_range2.php on line 5
+[02-Dec-2015 22:41:48 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/groupmate/public_html/price_range2.php:4) in /home/groupmate/public_html/price_range2.php on line 5
+[02-Dec-2015 22:42:00 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/groupmate/public_html/price_range2.php:4) in /home/groupmate/public_html/price_range2.php on line 5
+[02-Dec-2015 22:42:01 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/groupmate/public_html/price_range2.php:4) in /home/groupmate/public_html/price_range2.php on line 5
+[02-Dec-2015 22:42:01 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/groupmate/public_html/price_range2.php:4) in /home/groupmate/public_html/price_range2.php on line 5
+[02-Dec-2015 22:42:02 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/groupmate/public_html/price_range2.php:4) in /home/groupmate/public_html/price_range2.php on line 5
+[02-Dec-2015 22:42:02 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/groupmate/public_html/price_range2.php:4) in /home/groupmate/public_html/price_range2.php on line 5
+[02-Dec-2015 22:42:02 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/groupmate/public_html/price_range2.php:4) in /home/groupmate/public_html/price_range2.php on line 5
+[02-Dec-2015 22:42:02 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/groupmate/public_html/price_range2.php:4) in /home/groupmate/public_html/price_range2.php on line 5
+[02-Dec-2015 22:42:02 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/groupmate/public_html/price_range2.php:4) in /home/groupmate/public_html/price_range2.php on line 5
+[02-Dec-2015 22:42:02 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/groupmate/public_html/price_range2.php:4) in /home/groupmate/public_html/price_range2.php on line 5
+[02-Dec-2015 22:44:18 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/groupmate/public_html/price_range2.php:4) in /home/groupmate/public_html/price_range2.php on line 5
+[02-Dec-2015 22:44:19 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/groupmate/public_html/price_range2.php:4) in /home/groupmate/public_html/price_range2.php on line 5
+[02-Dec-2015 22:44:30 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/groupmate/public_html/price_range2.php:4) in /home/groupmate/public_html/price_range2.php on line 5
+[02-Dec-2015 22:50:18 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 11
+[02-Dec-2015 22:52:09 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 11
+[02-Dec-2015 22:52:10 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 11
+[02-Dec-2015 22:53:49 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 11
+[02-Dec-2015 23:04:06 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/groupmate/public_html/suggestion.php on line 176
+[02-Dec-2015 23:04:18 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 13
+[02-Dec-2015 23:04:45 America/Chicago] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE), expecting ',' or ';' in /home/groupmate/public_html/suggestion.php on line 176
+[02-Dec-2015 23:06:08 America/Chicago] PHP Parse error:  syntax error, unexpected 'item2' (T_STRING), expecting ',' or ';' in /home/groupmate/public_html/suggestion.php on line 176
+[02-Dec-2015 23:07:25 America/Chicago] PHP Parse error:  syntax error, unexpected 'color' (T_STRING), expecting ',' or ';' in /home/groupmate/public_html/suggestion.php on line 177
+[02-Dec-2015 23:12:38 America/Chicago] PHP Parse error:  syntax error, unexpected '*' in /home/groupmate/public_html/make_new_group.php on line 33
+[02-Dec-2015 23:13:24 America/Chicago] PHP Parse error:  syntax error, unexpected '*' in /home/groupmate/public_html/make_new_group.php on line 34
+[02-Dec-2015 23:16:54 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 13
+[02-Dec-2015 23:17:03 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 13
+[02-Dec-2015 23:18:08 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 13
+[02-Dec-2015 23:23:45 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/groupmate/public_html/price_range2.php on line 90
+[02-Dec-2015 23:24:22 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/groupmate/public_html/price_range2.php:4) in /home/groupmate/public_html/price_range2.php on line 5
+[02-Dec-2015 23:24:22 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 63
+[02-Dec-2015 23:25:18 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 44
+[02-Dec-2015 23:25:18 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 53
+[02-Dec-2015 23:25:28 America/Chicago] PHP Parse error:  syntax error, unexpected '*' in /home/groupmate/public_html/make_new_group.php on line 34
+[02-Dec-2015 23:25:48 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/groupmate/public_html/price_range2.php:4) in /home/groupmate/public_html/price_range2.php on line 5
+[02-Dec-2015 23:26:38 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/groupmate/public_html/price_range2.php:4) in /home/groupmate/public_html/price_range2.php on line 5
+[02-Dec-2015 23:27:23 America/Chicago] PHP Parse error:  syntax error, unexpected '&' in /home/groupmate/public_html/price_range.php on line 8
+[02-Dec-2015 23:27:33 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/groupmate/public_html/price_range.php on line 5
+[02-Dec-2015 23:27:33 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/groupmate/public_html/price_range.php on line 6
+[02-Dec-2015 23:28:02 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/groupmate/public_html/price_range.php on line 6
+[02-Dec-2015 23:28:02 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/groupmate/public_html/price_range.php on line 7
+[02-Dec-2015 23:28:40 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/groupmate/public_html/price_range.php on line 6
+[02-Dec-2015 23:28:40 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/groupmate/public_html/price_range.php on line 7
+[02-Dec-2015 23:28:44 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/groupmate/public_html/price_range.php on line 6
+[02-Dec-2015 23:28:44 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/groupmate/public_html/price_range.php on line 7
+[02-Dec-2015 23:29:27 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/groupmate/public_html/price_range.php on line 6
+[02-Dec-2015 23:29:27 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/groupmate/public_html/price_range.php on line 7
+[02-Dec-2015 23:29:27 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/groupmate/public_html/price_range.php on line 6
+[02-Dec-2015 23:29:27 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/groupmate/public_html/price_range.php on line 7
+[02-Dec-2015 23:31:18 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/groupmate/public_html/price_range2.php:4) in /home/groupmate/public_html/price_range2.php on line 5
+[02-Dec-2015 23:32:05 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 39
+[02-Dec-2015 23:32:05 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 48
+[02-Dec-2015 23:35:25 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/groupmate/public_html/price_range2.php:4) in /home/groupmate/public_html/price_range2.php on line 6
+[02-Dec-2015 23:36:12 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 51
+[02-Dec-2015 23:36:12 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 60
+[02-Dec-2015 23:36:39 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 52
+[02-Dec-2015 23:36:39 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 61
+[02-Dec-2015 23:36:39 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 71
+[02-Dec-2015 23:36:40 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 52
+[02-Dec-2015 23:36:40 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 61
+[02-Dec-2015 23:36:40 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 71
+[02-Dec-2015 23:36:41 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 52
+[02-Dec-2015 23:36:41 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 61
+[02-Dec-2015 23:36:41 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 71
+[02-Dec-2015 23:36:59 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 52
+[02-Dec-2015 23:36:59 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 61
+[02-Dec-2015 23:39:04 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 45
+[02-Dec-2015 23:39:04 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 54
+[02-Dec-2015 23:39:10 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 45
+[02-Dec-2015 23:39:10 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 54
+[02-Dec-2015 23:52:49 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 23
+[02-Dec-2015 23:52:49 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 31
+[02-Dec-2015 23:53:31 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 23
+[02-Dec-2015 23:53:31 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 31
+[02-Dec-2015 23:53:51 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 23
+[02-Dec-2015 23:53:51 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 31
+[02-Dec-2015 23:53:51 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 40
+[02-Dec-2015 23:53:52 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 23
+[02-Dec-2015 23:53:52 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 31
+[02-Dec-2015 23:53:52 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 40
+[02-Dec-2015 23:54:26 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 23
+[02-Dec-2015 23:54:26 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 31
+[02-Dec-2015 23:54:26 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 40
+[02-Dec-2015 23:59:27 America/Chicago] PHP Fatal error:  Function name must be a string in /home/groupmate/public_html/make_new_group.php on line 15
+[03-Dec-2015 00:01:13 America/Chicago] PHP Fatal error:  Function name must be a string in /home/groupmate/public_html/make_new_group.php on line 15
+[03-Dec-2015 00:05:09 America/Chicago] PHP Fatal error:  Function name must be a string in /home/groupmate/public_html/make_new_group.php on line 15
+[03-Dec-2015 00:06:36 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 22
+[03-Dec-2015 00:06:36 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 30
+[03-Dec-2015 00:07:24 America/Chicago] PHP Fatal error:  Function name must be a string in /home/groupmate/public_html/make_new_group.php on line 15
+[03-Dec-2015 00:08:27 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 22
+[03-Dec-2015 00:08:27 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 30
+[03-Dec-2015 00:08:30 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 22
+[03-Dec-2015 00:08:30 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 30
+[03-Dec-2015 00:09:09 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 22
+[03-Dec-2015 00:09:09 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 30
+[03-Dec-2015 00:09:22 America/Chicago] PHP Fatal error:  Function name must be a string in /home/groupmate/public_html/make_new_group.php on line 24
+[03-Dec-2015 00:09:44 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 22
+[03-Dec-2015 00:09:44 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 30
+[03-Dec-2015 00:10:10 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 22
+[03-Dec-2015 00:10:10 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 30
+[03-Dec-2015 00:16:11 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 22
+[03-Dec-2015 00:16:11 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 30
+[03-Dec-2015 00:16:11 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 39
+[03-Dec-2015 00:17:04 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 22
+[03-Dec-2015 00:17:04 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 30
+[03-Dec-2015 00:17:04 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 39
+[03-Dec-2015 00:17:04 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 22
+[03-Dec-2015 00:17:04 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 30
+[03-Dec-2015 00:18:16 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 22
+[03-Dec-2015 00:18:16 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 30
+[03-Dec-2015 00:18:16 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 39
+[03-Dec-2015 00:33:20 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/add_bill.php on line 20
+[03-Dec-2015 00:33:38 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/add_bill.php on line 20
+[03-Dec-2015 00:33:44 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/add_bill.php on line 20
+[03-Dec-2015 00:34:08 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/add_bill.php on line 20
+[03-Dec-2015 00:54:42 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/groupmate/public_html/price_range2.php:9) in /home/groupmate/public_html/price_range2.php on line 50
+[03-Dec-2015 00:56:32 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/groupmate/public_html/price_range2.php:9) in /home/groupmate/public_html/price_range2.php on line 50
+[03-Dec-2015 00:56:49 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/groupmate/public_html/price_range2.php:9) in /home/groupmate/public_html/price_range2.php on line 50
+[03-Dec-2015 00:58:47 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/groupmate/public_html/price_range2.php:9) in /home/groupmate/public_html/price_range2.php on line 50
+[03-Dec-2015 01:42:07 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 94
+[03-Dec-2015 01:42:07 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 102
+[03-Dec-2015 01:42:07 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 171
+[03-Dec-2015 01:42:07 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 243
+[03-Dec-2015 01:42:41 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 94
+[03-Dec-2015 01:42:41 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 102
+[03-Dec-2015 01:42:41 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 171
+[03-Dec-2015 01:42:41 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 243
+[03-Dec-2015 01:42:44 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 94
+[03-Dec-2015 01:42:44 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 102
+[03-Dec-2015 01:42:44 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 171
+[03-Dec-2015 01:42:44 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 243
+[03-Dec-2015 01:42:45 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 94
+[03-Dec-2015 01:42:45 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 102
+[03-Dec-2015 01:42:45 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 171
+[03-Dec-2015 01:42:45 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 243
+[03-Dec-2015 01:42:45 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 94
+[03-Dec-2015 01:42:45 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 102
+[03-Dec-2015 01:42:45 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 171
+[03-Dec-2015 01:42:45 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 243
+[03-Dec-2015 01:42:46 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 94
+[03-Dec-2015 01:42:46 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 102
+[03-Dec-2015 01:42:46 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 171
+[03-Dec-2015 01:42:46 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 243
+[03-Dec-2015 01:42:47 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 94
+[03-Dec-2015 01:42:47 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 102
+[03-Dec-2015 01:42:47 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 171
+[03-Dec-2015 01:42:47 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 243
+[03-Dec-2015 02:25:30 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 23
+[03-Dec-2015 02:25:30 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 31
+[03-Dec-2015 02:25:30 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 40
+[03-Dec-2015 02:25:31 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 23
+[03-Dec-2015 02:25:31 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 31
+[03-Dec-2015 02:25:32 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 23
+[03-Dec-2015 02:25:32 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 31
+[03-Dec-2015 02:25:32 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 40
+[03-Dec-2015 02:25:33 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 23
+[03-Dec-2015 02:25:33 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 31
+[03-Dec-2015 02:25:33 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/price_range2.php on line 40
+[03-Dec-2015 12:10:38 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/groupmate/public_html/login.php on line 5
+[03-Dec-2015 12:57:30 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 94
+[03-Dec-2015 12:57:30 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 102
+[03-Dec-2015 12:57:30 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 171
+[03-Dec-2015 12:57:30 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 243
+[06-Dec-2015 10:18:29 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 94
+[06-Dec-2015 10:18:29 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 102
+[06-Dec-2015 10:18:29 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 171
+[06-Dec-2015 10:18:29 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 243
+[09-Dec-2015 00:00:45 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 94
+[09-Dec-2015 00:00:45 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 102
+[09-Dec-2015 00:00:45 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 171
+[09-Dec-2015 00:00:45 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/groupmate/public_html/main_page.php on line 243

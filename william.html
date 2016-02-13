@@ -1,0 +1,46 @@
+<?php
+// Start the session
+session_start();
+?>
+ 
+<!DOCTYPE html>
+
+<html lang='en'>
+<head>
+    <meta charset="UTF-8" /> 
+    <title>
+        THE NEW LOGIN PAGE SWAG
+    </title>
+    <link rel="stylesheet" type="text/css" href="css/style.css" />
+</head>
+<body>
+
+	<form name="login-form" class="login-form" method="post" action="william.php">
+	
+		<div class="header">
+		<h1>Login Form</h1>
+		<span>Time to login, ya mofos.</span>
+		</div>
+	
+		<div class="content">
+		<input name="username" type="text" class="input username" placeholder="Username" />
+		
+		<div class="user-icon"></div>
+		<input name="password" type="password" class="input password" placeholder="Password" />
+		
+		<div class="pass-icon"></div>		
+		</div>
+		
+
+		<div class="footer">
+		<input type="submit" name="submit" value="Login" class="button" />
+		<input type="submit" name="submit" value="Register" class="register" />
+		</div>
+	
+	</form>
+
+</div>
+<!--<div class="gradient"></div>-->
+
+</body>
+</html>
